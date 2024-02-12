@@ -1,1 +1,1 @@
-# loki
+# loki the power icon
